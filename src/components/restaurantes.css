@@ -1,0 +1,13 @@
+img {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  margin: 0, 0, 0, 0;
+}
+
+.card {
+ position: relative;
+  height: 367px;
+  width: 100px;
+  border:solid red 1px;
+}

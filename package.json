@@ -11,6 +11,9 @@
     "api": "npx json-server --watch src/api/restaurantes.json --port 5000"
   },
   "dependencies": {
+    "@mui/material": "^7.3.1",
+    "@mui/styled-engine": "^7.3.1",
+    "@mui/styled-engine-sc": "^7.3.1",
     "json-server": "^1.0.0-beta.3",
     "prettier": "^3.6.2",
     "react": "^19.1.1",
